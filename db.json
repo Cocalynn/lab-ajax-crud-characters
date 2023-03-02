@@ -1,0 +1,32 @@
+{
+  "characters": [
+    {
+      "id": 2,
+      "name": "Luke Skywalker",
+      "occupation": "Jedi Knight",
+      "weapon": "Lightsaber",
+      "cartoon": false
+    },
+    {
+      "id": 3,
+      "name": "Sponge Bob",
+      "occupation": "Lives under the sea",
+      "weapon": "Crabby Patty",
+      "cartoon": true
+    },
+    {
+      "name": "YINONG LI",
+      "occupation": "singer",
+      "weapon": "singing",
+      "isCartoon": false,
+      "id": 4
+    },
+    {
+      "name": "sdf",
+      "occupation": "sdf",
+      "weapon": "dfc",
+      "isCartoon": false,
+      "id": 5
+    }
+  ]
+}
